@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 13, 2017 (Example 1)
+### Day 0: August 13, 2017
 
 **Today's Progress**: Built a HTML version of @unicodevelper's Laravel exam and deployeed it to Github pages. Finally getting comfortable with Javascript after years of running away from it.
 

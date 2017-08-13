@@ -1,22 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 13, 2017 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Built a HTML version of @unicodevelper's Laravel exam and deployeed it to Github pages. Finally getting comfortable with Javascript after years of running away from it.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with getting the upvote and downvote functionality to work but unfortunately I was unable to find a fix. Had to pause it to watch a few JS30 videos and complete a client's design work.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Laravel Exam](https://ifeanyidavid.github.io/laravel-exam/)
 
 
 ### Day 1: June 27, Monday
